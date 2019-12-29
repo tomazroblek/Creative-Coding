@@ -2,5 +2,5 @@
 This is a design proposal for the front page of a student "homework-collection" made mostly using processing and exported and further edited with Adobe Illustrator and Adobe Photoshop. 
 
 p.s. Two files are added:
--sketch_191002a.pyde...code in processing
+-sketch_191002a.pyde...processing code
 -Naslovnica.pdf...finalized version of graphic created with processing
