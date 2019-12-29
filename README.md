@@ -3,4 +3,4 @@ This is a design proposal for the front page of a student "homework-collection" 
 
 p.s. Two files are added:
 -sketch_191002a.pyde...processing code
--Naslovnica.pdf...finalized version of graphic created with processing
+-Naslovnica.pdf...code output example
